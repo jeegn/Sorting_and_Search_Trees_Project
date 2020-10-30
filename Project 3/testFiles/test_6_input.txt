@@ -1,0 +1,41 @@
+i Jennifer 46157
+i Lisa 38963
+i Kimberly 34136
+i Michelle 34050
+i Amy 25209
+b
+i Lisa 4222
+i Angela 24927
+i Melissa 23737
+i Tammy 19586
+h Melissa
+h Kimberly
+b
+i Mary 19203
+i Tracy 18468
+i Julie 17159
+g Lisa
+i Karen 16701
+i Laura 16493
+i Christine 16061
+i Susan 15738
+i Dawn 15682
+s
+h
+g Julie
+i Stephanie 15389
+i Elizabeth 15119
+i Heather 14668
+i Kelly 14610
+i Tina 13863
+i Shannon 13546
+s
+h
+g Samantha
+i Lori 13446
+i Patricia 13405
+i Cynthia 12922
+h
+b
+s
+p

@@ -1,0 +1,84 @@
+insert Emily
+Level 0: |(Emily, 25037): 0; B|
+Level 1: |null||null|
+
+insert Emma
+Level 0: |(Emily, 25037): 1; B|
+Level 1: |null||(Emma, 21607): 0; R|
+Level 2: |null||null|
+
+(Emily, 25037)
+null
+insert Madison
+Level 0: |(Emma, 21607): 1; B|
+Level 1: |(Emily, 25037): 0; B||(Madison, 20622): 0; B|
+Level 2: |null||null||null||null|
+
+insert Olivia
+Level 0: |(Emma, 21607): 2; B|
+Level 1: |(Emily, 25037): 0; B||(Madison, 20622): 1; B|
+Level 2: |null||null||null||(Olivia, 16105): 0; R|
+Level 3: |null||null|
+
+insert Emily
+Level 0: |(Emma, 21607): 2; B|
+Level 1: |(Emily, 54321): 0; B||(Madison, 20622): 1; B|
+Level 2: |null||null||null||(Olivia, 16105): 0; R|
+Level 3: |null||null|
+
+insert Hannah
+Level 0: |(Emma, 21607): 2; B|
+Level 1: |(Emily, 54321): 0; B||(Madison, 20622): 1; R|
+Level 2: |null||null||(Hannah, 15605): 0; B||(Olivia, 16105): 0; B|
+Level 3: |null||null||null||null|
+
+(Emily, 54321)
+(Hannah, 15605)
+tree size = 5
+tree height = 2
+black height = 1
+height Madison = 1
+insert Abigail
+Level 0: |(Emma, 21607): 2; B|
+Level 1: |(Abigail, 15426): 1; B||(Madison, 20622): 1; R|
+Level 2: |null||(Emily, 54321): 0; R||(Hannah, 15605): 0; B||(Olivia, 16105): 0; B|
+Level 3: |null||null||null||null||null||null|
+
+insert Isabella
+Level 0: |(Emma, 21607): 3; B|
+Level 1: |(Abigail, 15426): 1; B||(Madison, 20622): 2; R|
+Level 2: |null||(Emily, 54321): 0; R||(Hannah, 15605): 1; B||(Olivia, 16105): 0; B|
+Level 3: |null||null||null||(Isabella, 15017): 0; R||null||null|
+Level 4: |null||null|
+
+insert Ashley
+Level 0: |(Emma, 21607): 3; B|
+Level 1: |(Ashley, 14373): 1; B||(Madison, 20622): 2; B|
+Level 2: |(Abigail, 15426): 0; B||(Emily, 54321): 0; B||(Hannah, 15605): 1; B||(Olivia, 16105): 0; B|
+Level 3: |null||null||null||null||null||(Isabella, 15017): 0; R||null||null|
+Level 4: |null||null|
+
+height Heather = -1
+insert Samantha
+Level 0: |(Emma, 21607): 3; B|
+Level 1: |(Ashley, 14373): 1; B||(Madison, 20622): 2; B|
+Level 2: |(Abigail, 15426): 0; B||(Emily, 54321): 0; B||(Hannah, 15605): 1; B||(Olivia, 16105): 1; B|
+Level 3: |null||null||null||null||null||(Isabella, 15017): 0; R||null||(Samantha, 13783): 0; R|
+Level 4: |null||null||null||null|
+
+height Emma = 3
+insert Elizabeth
+Level 0: |(Emma, 21607): 3; B|
+Level 1: |(Ashley, 14373): 2; B||(Madison, 20622): 2; B|
+Level 2: |(Abigail, 15426): 0; B||(Elizabeth, 13561): 1; B||(Hannah, 15605): 1; B||(Olivia, 16105): 1; B|
+Level 3: |null||null||null||(Emily, 54321): 0; R||null||(Isabella, 15017): 0; R||null||(Samantha, 13783): 0; R|
+Level 4: |null||null||null||null||null||null|
+
+tree size = 10
+tree height = 3
+black height = 2
+Level 0: |(Emma, 21607): 3; B|
+Level 1: |(Ashley, 14373): 2; B||(Madison, 20622): 2; B|
+Level 2: |(Abigail, 15426): 0; B||(Elizabeth, 13561): 1; B||(Hannah, 15605): 1; B||(Olivia, 16105): 1; B|
+Level 3: |null||null||null||(Emily, 54321): 0; R||null||(Isabella, 15017): 0; R||null||(Samantha, 13783): 0; R|
+Level 4: |null||null||null||null||null||null|

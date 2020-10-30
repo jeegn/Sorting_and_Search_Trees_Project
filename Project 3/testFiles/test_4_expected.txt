@@ -1,0 +1,15 @@
+tree height = 11
+tree size = 100
+Level 0: |(Mary, 73985): 11|
+Level 1: |(Dorothy, 39087): 10||(Ruth, 25784): 7|
+Level 2: |(Betty, 17638): 5||(Helen, 34822): 9||(Mildred, 17881): 6||(Virginia, 19033): 4|
+Level 3: |(Anna, 14477): 4||(Doris, 13152): 3||(Frances, 15993): 8||(Margaret, 28467): 8||(Maxine, 3630): 0||(Rose, 9352): 5||(Thelma, 7839): 3||(Vivian, 4103): 2|
+Level 4: |(Alice, 11956): 2||(Annie, 7208): 3||(Catherine, 8887): 2||null||(Elizabeth, 15800): 7||(Gladys, 8813): 3||(Irene, 10624): 7||(Marie, 12501): 2||null||null||(Pauline, 7142): 4||(Ruby, 8333): 0||(Shirley, 5694): 2||(Viola, 4160): 1||null||(Wilma, 3822): 1|
+Level 5: |(Agnes, 4798): 0||(Ann, 5058): 1||(Anne, 4007): 0||(Bernice, 6190): 2||null||(Clara, 5606): 1||(Edna, 8303): 3||(Evelyn, 14278): 6||(Gertrude, 5349): 2||(Hazel, 7341): 1||(Ida, 4146): 0||(Lillian, 9770): 6||(Marian, 4064): 1||(Marjorie, 11209): 1||(Norma, 5101): 3||(Rita, 5157): 2||null||null||(Sarah, 5023): 0||(Stella, 3335): 1||(Vera, 3631): 0||(Violet, 3469): 0||(Willie, 3748): 0||null|
+Level 6: |null||null||(Alma, 3589): 0||null||null||null||(Barbara, 6014): 1||(Bertha, 4608): 1||(Charlotte, 3587): 0||null||(Edith, 7589): 0||(Eleanor, 8053): 2||(Ethel, 7603): 5||(Florence, 10719): 0||(Geraldine, 4522): 1||null||(Grace, 7230): 0||null||null||null||(Jean, 8593): 5||(Louise, 9180): 3||(Marguerite, 2897): 0||null||(Marion, 5814): 0||(Martha, 9264): 0||(Myrtle, 3791): 2||(Patricia, 3381): 0||(Phyllis, 4591): 1||null||null||null||null||(Sylvia, 3297): 0||null||null||null||null||null||null|
+Level 7: |null||null||(Audrey, 3434): 0||(Beatrice, 5968): 0||null||(Bessie, 3677): 0||null||null||null||null||(Elaine, 2922): 1||null||(Esther, 5925): 4||(Eva, 4326): 0||null||null||(Genevieve, 3235): 0||null||null||null||(Jane, 5187): 0||(Josephine, 8133): 4||(Lois, 6899): 1||(Lucille, 7698): 2||null||null||null||null||null||null||(Minnie, 2998): 0||(Nellie, 3513): 1||null||null||(Pearl, 4175): 0||null||null||null|
+Level 8: |null||null||null||null||null||null||(Eileen, 2863): 0||null||(Emma, 5073): 3||null||null||null||null||null||null||null||(Jessie, 3225): 1||(Katherine, 5156): 3||(Lillie, 3118): 0||(Lorraine, 4533): 0||null||(Mabel, 3337): 1||null||null||(Nancy, 3323): 0||null||null||null|
+Level 9: |null||null||(Elsie, 4878): 2||null||(Jennie, 2889): 0||null||(June, 5155): 2||(Kathryn, 4201): 2||null||null||null||null||(Lucy, 3157): 0||null||null||null|
+Level 10: |(Ella, 3237): 1||null||null||null||(Juanita, 4779): 1||null||(Kathleen, 3419): 0||(Laura, 3998): 1||null||null|
+Level 11: |null||(Ellen, 3065): 0||null||(Julia, 4737): 0||null||null||null||(Leona, 3210): 0|
+Level 12: |null||null||null||null||null||null|

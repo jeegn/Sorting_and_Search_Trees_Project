@@ -1,0 +1,14 @@
+tree height = 10
+tree size = 49
+Level 0: |(Ashley, 47007): 10|
+Level 1: |(Amanda, 39052): 4||(Jennifer, 42651): 9|
+Level 2: |(Alicia, 7122): 1||(Amber, 15504): 3||(Heather, 21153): 6||(Sarah, 24882): 8|
+Level 3: |null||(Allison, 7029): 0||null||(Amy, 14425): 2||(Elizabeth, 20541): 5||(Jamie, 11038): 1||(Nicole, 22967): 7||(Stephanie, 23239): 2|
+Level 4: |null||null||null||(Angela, 10226): 1||(Christina, 16597): 4||(Emily, 13136): 2||null||(Jenna, 6434): 0||(Megan, 20013): 6||(Rachel, 16360): 3||(Shannon, 7712): 0||(Tiffany, 13680): 1|
+Level 5: |(Andrea, 10051): 0||(April, 6692): 0||(Brittany, 15439): 0||(Danielle, 15410): 3||null||(Erin, 11385): 1||null||null||(Laura, 16002): 5||(Melissa, 19956): 1||null||(Rebecca, 12702): 2||null||null||null||(Vanessa, 7566): 0|
+Level 6: |null||null||null||null||null||null||(Crystal, 14398): 2||null||(Erica, 9527): 0||null||(Kimberly, 14913): 4||(Lauren, 15768): 4||null||(Michelle, 13970): 0||null||(Samantha, 10659): 1||null||null|
+Level 7: |(Courtney, 7534): 1||null||null||null||(Kelly, 11030): 3||(Kristen, 8443): 1||null||(Mary, 9244): 3||null||null||null||(Sara, 10556): 0|
+Level 8: |(Christine, 7439): 0||null||(Katherine, 10127): 2||null||null||(Kristin, 6566): 0||(Lisa, 9016): 2||null||null||null|
+Level 9: |null||null||null||(Katie, 7994): 1||null||null||(Lindsey, 8467): 1||null|
+Level 10: |(Kathryn, 6633): 0||null||(Lindsay, 7872): 0||null|
+Level 11: |null||null||null||null|

@@ -1,0 +1,53 @@
+i Ashley 47007
+i Jennifer 42651
+i Amanda 39052
+i Sarah 24882
+i Stephanie 23239
+i Nicole 22967
+i Heather 21153
+i Elizabeth 20541
+i Megan 20013
+i Melissa 19956
+i Christina 16597
+i Rachel 16360
+i Laura 16002
+i Lauren 15768
+i Amber 15504
+i Brittany 15439
+i Danielle 15410
+i Kimberly 14913
+i Amy 14425
+i Crystal 14398
+i Michelle 13970
+i Tiffany 13680
+i Emily 13136
+i Rebecca 12702
+i Erin 11385
+i Jamie 11038
+i Kelly 11030
+i Samantha 10659
+i Sara 10556
+i Angela 10226
+i Katherine 10127
+i Andrea 10051
+i Erica 9527
+i Mary 9244
+i Lisa 9016
+i Lindsey 8467
+i Kristen 8443
+i Katie 7994
+i Lindsay 7872
+i Shannon 7712
+i Vanessa 7566
+i Courtney 7534
+i Christine 7439
+i Alicia 7122
+i Allison 7029
+i April 6692
+i Kathryn 6633
+i Kristin 6566
+i Jenna 6434
+b
+h
+s
+p

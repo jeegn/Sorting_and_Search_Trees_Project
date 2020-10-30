@@ -1,0 +1,17 @@
+(Emily, 25037)
+null
+(Emily, 54321)
+(Hannah, 15605)
+tree size = 5
+tree height = 3
+height Madison = 1
+height Heather = -1
+height Emma = 3
+tree size = 10
+tree height = 4
+Level 0: |(Emily, 54321): 4|
+Level 1: |(Abigail, 15426): 2||(Emma, 21607): 3|
+Level 2: |null||(Ashley, 14373): 1||null||(Madison, 20622): 2|
+Level 3: |null||(Elizabeth, 13561): 0||(Hannah, 15605): 1||(Olivia, 16105): 1|
+Level 4: |null||null||null||(Isabella, 15017): 0||null||(Samantha, 13783): 0|
+Level 5: |null||null||null||null|

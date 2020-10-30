@@ -1,0 +1,11 @@
+black height = 4
+tree height = 6
+tree size = 49
+Level 0: |(Jennifer, 42651): 6; B|
+Level 1: |(Christina, 16597): 4; B||(Melissa, 19956): 5; B|
+Level 2: |(Andrea, 10051): 3; B||(Elizabeth, 20541): 3; B||(Kimberly, 14913): 4; B||(Rebecca, 12702): 4; B|
+Level 3: |(Allison, 7029): 2; B||(Ashley, 47007): 2; B||(Crystal, 14398): 2; B||(Erin, 11385): 2; B||(Katie, 7994): 2; B||(Lauren, 15768): 3; R||(Nicole, 22967): 1; B||(Sarah, 24882): 3; B|
+Level 4: |(Alicia, 7122): 0; B||(Amber, 15504): 1; R||(Angela, 10226): 1; B||(Brittany, 15439): 0; B||(Christine, 7439): 1; B||(Danielle, 15410): 0; B||(Emily, 13136): 1; B||(Jamie, 11038): 1; R||(Katherine, 10127): 1; B||(Kelly, 11030): 0; B||(Kristin, 6566): 1; B||(Lindsey, 8467): 2; B||(Michelle, 13970): 0; B||(Rachel, 16360): 0; B||(Samantha, 10659): 1; B||(Stephanie, 23239): 2; R|
+Level 5: |null||null||(Amanda, 39052): 0; B||(Amy, 14425): 0; B||null||(April, 6692): 0; R||null||null||null||(Courtney, 7534): 0; R||null||null||null||(Erica, 9527): 0; R||(Heather, 21153): 0; B||(Jenna, 6434): 0; B||null||(Kathryn, 6633): 0; R||null||null||(Kristen, 8443): 0; B||(Laura, 16002): 0; B||(Lindsay, 7872): 0; B||(Mary, 9244): 1; R||null||null||null||null||null||(Sara, 10556): 0; R||(Shannon, 7712): 0; B||(Tiffany, 13680): 1; B|
+Level 6: |null||null||null||null||null||null||null||null||null||null||null||null||null||null||null||null||null||null||null||null||null||null||(Lisa, 9016): 0; B||(Megan, 20013): 0; B||null||null||null||null||null||(Vanessa, 7566): 0; R|
+Level 7: |null||null||null||null||null||null|

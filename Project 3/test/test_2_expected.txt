@@ -1,0 +1,20 @@
+height Melissa = 0
+height Kimberly = 0
+(Lisa, 4222)
+tree size = 16
+tree height = 4
+(Julie, 17159)
+tree size = 22
+tree height = 6
+null
+tree height = 7
+tree size = 25
+Level 0: |(Jennifer, 46157): 7|
+Level 1: |(Amy, 25209): 5||(Lisa, 4222): 6|
+Level 2: |null||(Angela, 24927): 4||(Kimberly, 34136): 3||(Michelle, 34050): 5|
+Level 3: |null||(Christine, 16061): 3||(Julie, 17159): 2||(Laura, 16493): 0||(Melissa, 23737): 2||(Tammy, 19586): 4|
+Level 4: |null||(Dawn, 15682): 2||null||(Karen, 16701): 1||null||null||(Mary, 19203): 1||null||(Susan, 15738): 3||(Tracy, 18468): 1|
+Level 5: |(Cynthia, 12922): 0||(Elizabeth, 15119): 1||null||(Kelly, 14610): 0||(Lori, 13446): 0||null||(Stephanie, 15389): 2||null||(Tina, 13863): 0||null|
+Level 6: |null||null||null||(Heather, 14668): 0||null||null||null||null||(Shannon, 13546): 1||null||null||null|
+Level 7: |null||null||(Patricia, 13405): 0||null|
+Level 8: |null||null|
